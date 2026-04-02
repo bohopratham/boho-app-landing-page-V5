@@ -1,0 +1,29 @@
+{
+  "name": "boho-app-landing-page-v5",
+  "version": "1.0.0",
+  "description": "BOHO - India's most untamed travel experience. Coming soon landing page.",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohopratham/boho-app-landing-page-V5.git"
+  },
+  "keywords": [
+    "landing-page",
+    "travel",
+    "boho",
+    "static-site"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohopratham/boho-app-landing-page-V5/issues"
+  },
+  "homepage": "https://github.com/bohopratham/boho-app-landing-page-V5#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
